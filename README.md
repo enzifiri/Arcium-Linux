@@ -87,5 +87,3 @@ Done, lets start build!
 
 ![image](https://github.com/user-attachments/assets/707b167f-ab1f-4289-ba81-4c0b6d08811b)
 
-# Docs
-https://arcium.gitbook.io/arcium-docs-testnet/TVGjj38fvTGJzu2su5ut
