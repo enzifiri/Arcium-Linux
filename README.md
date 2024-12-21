@@ -72,17 +72,11 @@ sudo docker run hello-world
 
 
 # Arcium CLI
+(PRIVATE)
 
-arcup is the version manager used to manage Arcium tools (including CLI and MPC node binaries). Follow these steps for installation:
+Continue from the docs shared in the announcement on the discord.
+https://discord.com/channels/963285822327652403/1263151363353870347/1318936270436696135
 
-1. Download arcup
-Replace <YOUR_TARGET> with your platform (aarch64_linux, x86_64_linux, aarch64_macos, x86_64_macos) and run the following command:
-```
-TARGET=<YOUR_TARGET> && curl -u testnet_user_20842437:ZTi9igBU6icam0y2 "https://bin.arcium.com/download/arcup_${TARGET}_0.1.30" -o ~/.cargo/bin/arcup && chmod +x ~/.cargo/bin/arcup
-
-arcup install
-arcium --version
-```
 Done, lets start build!
 
 ![image](https://github.com/user-attachments/assets/707b167f-ab1f-4289-ba81-4c0b6d08811b)
