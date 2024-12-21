@@ -71,7 +71,7 @@ sudo docker run hello-world
 </details>
 
 
-# Arcium CLI
+# Arcium CLI SETUP
 (PRIVATE)
 
 Continue from the docs shared in the announcement on the discord.
